@@ -1,0 +1,13 @@
+5
+Pune Mumbai Banglore Indore Calcutta 
+9
+Pune Mumbai
+Pune Calcutta
+Pune Indore
+Mumbai Pune
+Banglore Pune
+Banglore Indore
+Indore Calcutta
+Calcutta Mumbai
+Indore Banglore
+Banglore Calcutta

@@ -1,0 +1,10 @@
+4
+America Paris London Newyork 
+6
+America Paris
+America London
+America Newyork
+Paris Newyork
+London America
+London Paris
+London Newyork
